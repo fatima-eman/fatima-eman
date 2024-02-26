@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://www.awzpact.com/images/main_image.gif" alt="logo">
+</p>
 <h1 align="center">Hi 👋, I'm Eman Fatima.</h1>
 <h3 align="center">I am passionate software developer with expertise in NLP, UI/UX, frontend & backend development.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"
