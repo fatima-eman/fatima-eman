@@ -19,8 +19,6 @@
 
 - 📫 How to reach me: **emanfatima6416@gmail.com**
 
-- 📄 [My Resume/CV](https://drive.google.com/file/d/1L3ArsIL1xzVvVKvItmh2I2oxJB-Cy7Kg/view?usp=sharing) — *double-check this points to your updated version before publishing*
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/eman-fatima-0a19a8251" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eman-fatima-0a19a8251" height="30" width="40" /></a>
@@ -49,13 +47,11 @@
 Automated data collection and industry classification pipeline with visual reporting.
 - **Stack:** BeautifulSoup, Pandas, Seaborn, Jupyter Notebook
 - **Status:** Completed (May 2026)
-- 🔗 [Repo link]
 
 ### 🔧 E-commerce Sentiment Pipeline *(in progress)*
 Modular Goodreads review scraper + NLP sentiment classification pipeline, built with an ELT architecture and clean separation of concerns (`collect_urls.py`, `extract_reviews.py`, `analyzer.py`).
 - **Stack:** Playwright, Python *(sentiment analysis stage roadmapped)*
 - **Status:** Phase 2 — review extraction
-- 🔗 [Repo link]
 
 ---
 
