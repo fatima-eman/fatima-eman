@@ -15,7 +15,7 @@
 
 - 🎯 Actively seeking **DS / AI / ML internship** opportunities
 
-- 📜 IBM Data Science Foundations — certified via Credly *(add your badge link here)*
+- 📜 IBM Data Science Foundations — certified via Credly 
 
 - 📫 How to reach me: **emanfatima6416@gmail.com**
 
@@ -49,9 +49,9 @@ Automated data collection and industry classification pipeline with visual repor
 - **Status:** Completed (May 2026)
 
 ### 🔧 E-commerce Sentiment Pipeline *(in progress)*
-Modular Goodreads review scraper + NLP sentiment classification pipeline, built with an ELT architecture and clean separation of concerns (`collect_urls.py`, `extract_reviews.py`, `analyzer.py`).
-- **Stack:** Playwright, Python *(sentiment analysis stage roadmapped)*
-- **Status:** Phase 2 — review extraction
+Modular Goodreads review scraper + NLP sentiment classification pipeline, built with an ETL architecture and clean separation of concerns (`collect_urls.py`, `extract_reviews.py`, `transform_reviews.py`, `analyzer.py`).
+- **Stack:** Playwright, Python, BeautifulSoup *(sentiment analysis stage roadmapped)*
+- **Status:** Phase 3 — Analysis
 
 ---
 
